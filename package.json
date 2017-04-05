@@ -1,6 +1,6 @@
 {
   "name": "mobi-plugin-scroll-view",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "Make a block element scrollable.",
   "main": "index.scss",
   "scripts": {
